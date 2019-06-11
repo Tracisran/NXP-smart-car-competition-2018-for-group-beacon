@@ -1,0 +1,17 @@
+"D:\IAR Systems\IAR for arm 8.2\Embedded Workbench 8.0\arm\bin\armproc.dll" 
+
+"D:\IAR Systems\IAR for arm 8.2\Embedded Workbench 8.0\arm\bin\armjlink2.dll" 
+
+"D:\Software Resourses\K66FX核心板资料\信标组\2018\LQ_K60_DMA_UART4_OV7620_VC母板 - 副本\Debug\Exe\c.out" 
+
+--plugin "D:\IAR Systems\IAR for arm 8.2\Embedded Workbench 8.0\arm\bin\armbat.dll" 
+
+--device_macro "D:\IAR Systems\IAR for arm 8.2\Embedded Workbench 8.0\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro "D:\IAR Systems\IAR for arm 8.2\Embedded Workbench 8.0\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader "D:\Software Resourses\K66FX核心板资料\信标组\2018\LQ_K60_DMA_UART4_OV7620_VC母板 - 副本\src\Project_Setting\Linker_Files\FlashK60Dxxx128K.board" 
+
+
+
+
